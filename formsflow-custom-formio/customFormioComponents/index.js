@@ -4,7 +4,8 @@ import TextAreaWithAnalytics from "./TextAreaWithAnalytics/TextAreaWithAnalytics
 
 // Add imported components to the components object
 const components = {
-  textAreaWithAnalytics: TextAreaWithAnalytics
+  textAreaWithAnalytics: TextAreaWithAnalytics,
+  textAreaWithAnalytics2: TextAreaWithAnalytics2
 };
 
 export default {
